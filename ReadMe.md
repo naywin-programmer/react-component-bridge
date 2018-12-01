@@ -28,4 +28,7 @@ to
 
 require('./src/main');
 
-## Tutorial Video will coming soon. :-)
+## Tutorial Videos
+
+- Introduction react component bridge for laravel - 01
+http://bit.ly/rcblib01
