@@ -24,7 +24,7 @@ rcbRender(ContainerKey, id, reactComponent, props)
 
 from
 ```js
- require('./src/components/Example');
+ require('./components/Example');
 ```
 to
 ```js
